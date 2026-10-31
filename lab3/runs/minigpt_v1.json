@@ -1,0 +1,25 @@
+{
+  "config": {
+    "n_layers": 2,
+    "embed_dim": 64,
+    "context_len": 16,
+    "batch_size": 32,
+    "lr": 0.001,
+    "iters": 400
+  },
+  "iteration": [
+    0,
+    100,
+    200,
+    300,
+    399
+  ],
+  "train_loss": [
+    7.9842,
+    6.9612,
+    6.8619,
+    6.8193,
+    6.6307
+  ],
+  "val_loss_final": 6.6400255823135375
+}

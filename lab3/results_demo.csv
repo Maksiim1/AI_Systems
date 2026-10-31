@@ -1,0 +1,4 @@
+Model,Metric,Score
+Mini-GPT (Iter 0),loss,9.3982
+Mini-GPT (Iter 500),loss,7.0406
+Sentiment (multilingual),Accuracy,100.0%

@@ -1,0 +1,3 @@
+model,n_layers,embed_dim,context_len,params,train_iters,last_train_loss,val_loss,val_perplexity
+minigpt_v1,2,64,16,423236,400,6.6307,6.64,765.1
+minigpt_v2,4,128,32,1438404,400,5.5186,5.5961,269.4
